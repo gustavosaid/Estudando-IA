@@ -1,0 +1,32 @@
+Nome,Endereço IP,Última conexão,Produto de segurança,Versão de produto de segurança,Usuários conectados,Nome do SO,Descrição
+VER-CMPM-02,128.128.100.2,15/09/2025 15:50:57,ESET Endpoint Security,12.0.2058.0,Matheus Ferreira,Microsoft Windows 11 Pro,VER WILIAN - MATHEUS
+VER-CMPM-05,128.128.100.5,15/09/2025 17:23:26,ESET Endpoint Security,12.0.2058.0,Karina Almeida,Microsoft Windows 11 Pro,VER. OTAVIANO - KARINA
+VER-CMPM-06,128.128.100.6,16/09/2025 08:56:26,ESET Endpoint Security,12.0.2058.0,Karla Cristina,Microsoft Windows 11 Pro,Gabinete Otaviano Marques
+VER-CMPM-08,128.128.100.8,16/09/2025 08:51:02,ESET Endpoint Security,12.0.2058.0,,Microsoft Windows 11 Pro,Gabinete - Mauri da JL
+VER-CMPM-09,128.128.100.9,15/09/2025 17:34:22,ESET Endpoint Security,12.0.2058.0,Mauri da JL,Microsoft Windows 11 Pro,VER. MAURI DA JL
+VER-CMPM-10,128.128.100.10,15/09/2025 14:59:51,ESET Endpoint Security,12.0.2062.0,toninho Cury,Microsoft Windows 11 Pro,Gabinete Toninho Cury
+VER-CMPM-11,128.128.100.11,16/09/2025 08:53:20,ESET Endpoint Security,12.0.2058.0,Igor,Microsoft Windows 11 Pro,Gabinete Toninho Cury - Igor
+VER-CMPM-12,128.128.100.12,15/09/2025 17:02:53,ESET Endpoint Security,12.0.2058.0,José Afonso,Microsoft Windows 11 Pro,Gabinete Toninho Cury - José Afonso
+VER-CMPM-14,128.128.100.14,16/09/2025 08:53:22,ESET Endpoint Security,12.0.2058.0,Ana Maria,Microsoft Windows 11 Pro,VER. ITAMAR ANDRÉ - ANA MARIA
+VER-CMPM-15,128.128.100.15,16/09/2025 08:50:42,ESET Endpoint Security,12.0.2058.0,Maryana,Microsoft Windows 11 Pro,VER. ITAMAR FERNANDES - MARIANA
+VER-CMPM-18,128.128.100.18,16/09/2025 08:53:48,ESET Endpoint Security,12.0.2058.0,Theresa,Microsoft Windows 11 Pro,Teresa - Carlito
+VER-CMPM-21,128.128.100.21,16/09/2025 08:56:37,ESET Endpoint Security,12.0.2062.0,Arthur Gonçalves,Microsoft Windows 11 Pro,VER CABO BASTISTA - ARTHUR GONÇALVES
+VER-CMPM-22,128.128.100.22,16/09/2025 08:57:47,ESET Endpoint Security,12.0.2058.0,,Microsoft Windows 11 Pro,VER. JULIO CESAR
+VER-CMPM-25,128.128.100.25,16/09/2025 08:53:17,ESET Endpoint Security,12.0.2058.0,,Microsoft Windows 10 Pro,Gabinete Gladston
+VER-CMPM-26,128.128.100.26,15/09/2025 17:42:03,ESET Endpoint Security,12.0.2062.0,diego,Microsoft Windows 10 Pro,Gabinete Gladston Gabriel
+VER-CMPM-27,128.128.100.27,16/09/2025 08:58:47,ESET Endpoint Security,12.0.2058.0,Nemora,Microsoft Windows 11 Pro,VER. GLADSTON - NEMORA
+VER-CMPM-30,128.128.100.30,15/09/2025 17:18:13,ESET Endpoint Security,12.0.2058.0,Daniela,Microsoft Windows 10 Pro,Gabinete Prof.Beth
+VER-CMPM-32,128.128.100.32,16/09/2025 08:52:47,ESET Endpoint Security,12.0.2062.0,,Microsoft Windows 11 Pro,VER. JOSÉ LUIZ - DANIEL HENRIQUE
+VER-CMPM-36,128.128.100.36,16/09/2025 08:54:58,ESET Endpoint Security,12.0.2062.0,Fabiana,Microsoft Windows 11 Pro,Gabinete Paulinho
+VER-CMPM-38,128.128.100.38,16/09/2025 08:53:25,ESET Endpoint Security,12.0.2058.0,jordhana,Microsoft Windows 11 Pro,Gabinete Brenda Évellyn
+VER-CMPM-39,128.128.100.39,16/09/2025 08:58:40,ESET Endpoint Security,12.0.2058.0,Eduardo,Microsoft Windows 11 Pro,VER. BRENDA EVELLYN - DANIEL
+VER-CMPM-40,128.128.100.40,16/09/2025 08:58:51,ESET Endpoint Security,12.0.2062.0,Administrator,Microsoft Windows 11 Pro,VER. JOSÉ EUSTÁQUIO
+VER-CMPM-41,128.128.100.41,16/09/2025 08:56:30,ESET Endpoint Security,12.0.2062.0,Leticia,Microsoft Windows 11 Pro,VER. JOSÉ EUSTÁQUIO - LETICIA
+VER-CMPM-42,128.128.100.42,15/09/2025 06:36:01,ESET Endpoint Security,12.0.2062.0,,Microsoft Windows 11 Pro,JÚLIA
+VER-CMPM-44,128.128.100.44,16/09/2025 08:54:20,ESET Endpoint Security,12.0.2062.0,Jonas Júnio,Microsoft Windows 11 Pro,Gabinete Sargento Leomar
+VER-CMPM-45,128.128.100.45,16/09/2025 08:51:44,ESET Endpoint Security,12.0.2058.0,Mônica Pereira,Microsoft Windows 11 Pro,Gabinete Sargento Leomar
+VER-CMPM-47,128.128.100.47,15/09/2025 17:27:44,ESET Endpoint Security,12.0.2062.0,EZEQUIEL,Microsoft Windows 11 Pro,VER. EZEQUIEL
+VER-CMPM-48,128.128.100.48,16/09/2025 08:55:37,ESET Endpoint Security,12.0.2058.0,Ezequiel,Microsoft Windows 11 Pro,VER EZEQUIEL
+VER-CMPM-49,128.128.100.49,12/09/2025 16:22:05,ESET Endpoint Security,12.0.2058.0,Administrator,Microsoft Windows 11 Pro,Gabinete Paulo Henrique
+VER-CMPM-50,128.128.100.50,15/09/2025 12:44:05,ESET Endpoint Security,12.0.2062.0,Camila,Microsoft Windows 11 Pro,VER. PAULO HENRIQUE - CAMILA
+VER-CMPM-51,128.128.100.51,16/09/2025 08:59:33,ESET Endpoint Security,12.0.2062.0,luiz gusttavo,Microsoft Windows 11 Pro,Usuário Tatiane
